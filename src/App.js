@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from './Navbar';
 import Header from './Header';
 import HowitWork from './HowitWork';
+import Aboutus from './Aboutus';
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <Navbar />
       <Header />
       <HowitWork />
+      <Aboutus />
     </>
   )
 }
