@@ -1,5 +1,6 @@
 body {
-  margin: 0;
+  /* padding: 0 auto; */
+  /* width: 80%; */
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -234,9 +235,25 @@ header{
 
 
 /* About us */
+
+.common-section{
+  margin: 5rem 0;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+.row{
+  /* margin: 0 auto; */
+  border: 1px solid cadetblue;
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+
 .our-services img{
-  width: 60%;
-  height: 80%;
+  width: 50%;
+  height: 60%;
   margin-top: 10rem;
   margin-bottom: 10rem;
   box-shadow: 0.8rem 0.8rem 0.8rem rgba(0, 0, 0, 0.25);
@@ -277,6 +294,10 @@ header{
 
 .our-services .our-services-data p{
   margin: 1rem 0;
+}
+
+.our-services-rightside{
+  margin-top: 10rem;
 }
 
 
