@@ -24,23 +24,23 @@ function Contact() {
                                 <div className='contact-rightside col-12 col-lg-7'>
                                     <form method="post">
                                         <div className='row'>
-                                            <div className='col-12 col-lg-6 contact'>
+                                            <div className='col-12 col-lg-6 contact-input-feild'>
                                                 <input type="text" className='form-control' placeholder='First Name' />
                                             </div>
-                                            <div className='col-12 col-lg-6 contact'>
+                                            <div className='col-12 col-lg-6 contact-input-feild'>
                                                 <input type="text" className='form-control' placeholder='Last Name' />
                                             </div>
                                         </div>
                                         <div className='row'>
-                                            <div className='col-12 col-lg-6 contact'>
+                                            <div className='col-12 col-lg-6 contact-input-feild'>
                                                 <input type="text" className='form-control' placeholder='Phone Number' />
                                             </div>
-                                            <div className='col-12 col-lg-6 contact'>
+                                            <div className='col-12 col-lg-6 contact-input-feild'>
                                                 <input type="text" className='form-control' placeholder='Email id' />
                                             </div>
                                         </div>
                                         <div className='row'>
-                                            <div className='col-12'>
+                                            <div className='col-12 contact-input-feild'>
                                                 <input type="text" className='form-control' placeholder='Add Address' />
                                             </div>
                                         </div>
