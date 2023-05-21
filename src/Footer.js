@@ -12,16 +12,16 @@ function Footer() {
                                     <h2>Company</h2>
                                     <ul>
                                         <li>
-                                            <a href="#">About</a>
+                                            <a href="#">Home</a>
                                         </li>
                                         <li>
                                             <a href="#">About</a>
                                         </li>
                                         <li>
-                                            <a href="#">About</a>
+                                            <a href="#">Service</a>
                                         </li>
                                         <li>
-                                            <a href="#">About</a>
+                                            <a href="#">Contact</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -29,16 +29,16 @@ function Footer() {
                                     <h2>Support</h2>
                                     <ul>
                                         <li>
-                                            <a href="#">About</a>
+                                            <a href="#">Home</a>
                                         </li>
                                         <li>
                                             <a href="#">About</a>
                                         </li>
                                         <li>
-                                            <a href="#">About</a>
+                                            <a href="#">Service</a>
                                         </li>
                                         <li>
-                                            <a href="#">About</a>
+                                            <a href="#">Contact</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -46,16 +46,16 @@ function Footer() {
                                     <h2>Services</h2>
                                     <ul>
                                         <li>
-                                            <a href="#">About</a>
+                                            <a href="#">Home</a>
                                         </li>
                                         <li>
                                             <a href="#">About</a>
                                         </li>
                                         <li>
-                                            <a href="#">About</a>
+                                            <a href="#">Service</a>
                                         </li>
                                         <li>
-                                            <a href="#">About</a>
+                                            <a href="#">Contact</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -87,7 +87,7 @@ function Footer() {
                             </div>
                             <hr />
                             <div className='mt-5'>
-                                <p className='main-hero-para text-center w-100'>Copyright @ 2023 Rupee. All rights reserved.</p>
+                                <p className='main-hero-para text-center w-100'>Copyright <span>&copy;</span> 2023 Rupee.com. All rights reserved.</p>
                             </div>
                         </div>
                     </div>
